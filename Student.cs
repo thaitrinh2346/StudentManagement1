@@ -1,1 +1,1 @@
-// Student model
+// Added properties: Id, Name, Age
